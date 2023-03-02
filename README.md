@@ -1,7 +1,7 @@
 # tindog
 <img width="916" alt="tindog" src="https://user-images.githubusercontent.com/69899151/222327744-5a14b0e7-f8f7-401c-a0c0-e83dcf81f764.png">
 
-[Active Link](https://github.com/facebook/create-react-app).
+[Active Link](https://pravendra-kumar.github.io/tindog/).
 
 
 # Features
